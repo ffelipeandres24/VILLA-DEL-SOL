@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "andres24",
+    "database": "villa_del_sol",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "andres24",
+    "database": "villa_del_sol",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "andres24",
+    "database": "villa_del_sol",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
